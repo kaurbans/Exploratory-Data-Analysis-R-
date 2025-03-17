@@ -1,19 +1,17 @@
-# 📈Eksploracyjna Analiza Danych 
-
-### 📊 Autor:
+# 📈 Exploratory Data Analysis
+## 📊 Author:
 👨‍💻 Kacper Urbański
 
-## 📌 Opis projektu
-Eksploracyjna Analiza Danych to interaktywna analiza zbioru danych, której celem jest identyfikacja wzorców oraz testowanie hipotez. Wykorzystane przeze mnie dane przedstawiają szczegółowe informacje o zawodnikach grających w tegorocznym sezonie włoskiej ligi Serie A. 
+## 📌 Project Description
+Exploratory Data Analysis is an interactive analysis of a dataset aimed at identifying patterns and testing hypotheses. The dataset used in this project contains detailed information about players participating in this season of the Italian Serie A league.
 
-## 🔥 Kluczowe funkcjonalności:
-🔍 Wizualizacja danych w postaci wykresów i tabel <br>
-📈 Analiza statystyczna i eksploracyjna
+## 🔥 Key Features:
+🔍 Data visualization in the form of charts and tables <br>
+📈 Statistical and exploratory analysis
 
-## 📁 Struktura projektu
-📄 EDA_KacperUrbański.html – Raport z analizą danych
+## 📁 Project Structure
+📄 EDA_KacperUrbański.html – Data analysis report
 
-## 🚀 Technologie
-📊 R (tidyverse, ggplot2, dplyr, tidyr, stringr, readr, mice) – analiza danych i wizualizacje <br>
-📦 R markdown - generowanie raportu
-
+## 🚀 Technologies
+📊 R (tidyverse, ggplot2, dplyr, tidyr, stringr, readr, mice) – data analysis and visualization <br>
+📦 R Markdown – report generation
